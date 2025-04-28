@@ -16,7 +16,8 @@ Program to implement Tower of Hanoi
 Developed by: PRADEEP E 
 RegisterNumber:  212223230149
 */
-
+```
+```
 #include<stdio.h>
 void TOH(int n,char x,char y,char z)
 {
