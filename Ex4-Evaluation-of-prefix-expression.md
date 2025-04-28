@@ -17,9 +17,13 @@ To write a C function to evaluate the given prefix expression using stack and pr
 
 ## Program:
 ```
-Name: PRADEEP E
-Reg No: 212223230149
-
+/*
+Program to evaluate the given prefix expression
+Developed by: PRADEEP E
+RegisterNumber:  212223230149
+*/
+```
+```
 #include<stdio.h>
 #include<string.h>
 #include<ctype.h>
